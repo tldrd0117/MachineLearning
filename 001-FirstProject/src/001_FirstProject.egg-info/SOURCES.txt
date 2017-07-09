@@ -1,0 +1,8 @@
+setup.py
+src/001_FirstProject.egg-info/PKG-INFO
+src/001_FirstProject.egg-info/SOURCES.txt
+src/001_FirstProject.egg-info/dependency_links.txt
+src/001_FirstProject.egg-info/requires.txt
+src/001_FirstProject.egg-info/top_level.txt
+src/lsj/__init__.py
+src/lsj/start.py
